@@ -1,0 +1,3 @@
+[submodule "sources/dvc-task"]
+	path = sources/dvc-task
+	url = https://github.com/iterative/dvc-task
