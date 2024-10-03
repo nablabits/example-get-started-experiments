@@ -1,3 +1,4 @@
 [submodule "sources/dvc-task"]
 	path = sources/dvc-task
-	url = https://github.com/iterative/dvc-task
+	url = git@github.com:nablabits/dvc-task.git
+	branch = feature/dvc-10427-add-delay-to-the-clean
